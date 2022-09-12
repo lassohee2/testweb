@@ -1,12 +1,8 @@
 @font-face {
 	font-family: neue haas;
-	src: url(NeueHaasDisplay-Roman.ttf);
+	src: url(fonts/NeueHaasDisplay-Roman.ttf);
 }
 
-@font-face {
-	font-family: appleSD;
-	src: url(AppleSDGothicNeoL.ttf);
-}
 
 * {
 	margin: 0;
